@@ -1,0 +1,7 @@
+2022-10-05 15:57:25,771 - <module> - DEBUG - AAA
+2022-10-05 15:57:25,771 - <module> - INFO - BBB
+2022-10-05 15:57:25,771 - <module> - WARNING - CCC
+2022-10-05 15:57:25,771 - <module> - ERROR - DDD
+2022-10-05 15:57:25,771 - <module> - CRITICAL - EEE
+2022-10-05 15:57:25,771 - <module> - INFO - asdasdkad
+2022-10-05 15:57:25,771 - <module> - DEBUG - fffff
